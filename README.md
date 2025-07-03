@@ -25,7 +25,7 @@ elyerr.xyz, *.elyerr.xyz
 To set custom domains (comma-separated):
 
 ```bash
-export ALT_NAMES="auth.elyerr.xyz,cloud.elyerr.xyz,elyerr.org"
+export ALT_NAMES="*.elyerr.xyz,elyerr.org"
 ```
 ---
 
